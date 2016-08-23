@@ -1,0 +1,28 @@
+.home.about{
+	background: url("https://hd.unsplash.com/photo-1466770862531-457e6c8a7e63");
+}	
+.new{
+	display: flex;
+	flex-direction: row;
+ justify-content: center;
+ color: white;
+ font-family: Trebuchet;
+ font-size: 55px;
+}
+
+#res{
+ text-align: center;
+}
+#ba{
+ text-align: center;
+ font-size: 25px;
+ margin-top: 50px;
+}
+.field{
+	font-size: 45px;
+color: #FF7216;
+}
+#pick{
+	color:#668014;
+	text-align: center;
+}
