@@ -15,8 +15,9 @@
 }
 #ba{
  text-align: center;
- font-size: 25px;
- margin-top: 50px;
+ color: red;
+ font-size: 5px;
+ margin-top: 50px;	
 }
 .field{
 	font-size: 45px;
